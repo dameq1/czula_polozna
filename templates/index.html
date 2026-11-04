@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{SITE_TITLE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <meta name="keywords" content="{{META_KEYWORDS}}">
+  <meta name="author" content="{{BRAND_OWNER}}">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+  <link rel="canonical" href="{{CANONICAL_URL}}">
+  <meta name="theme-color" content="#f8f1ed">
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pl_PL">
+  <meta property="og:site_name" content="{{BRAND_NAME}}">
+  <meta property="og:title" content="{{OG_TITLE}}">
+  <meta property="og:description" content="{{OG_DESCRIPTION}}">
+  <meta property="og:url" content="{{CANONICAL_URL}}">
+  <meta property="og:image" content="{{OG_IMAGE}}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{OG_IMAGE_ALT}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{OG_TITLE}}">
+  <meta name="twitter:description" content="{{OG_DESCRIPTION}}">
+  <meta name="twitter:image" content="{{OG_IMAGE}}">
+
+  <link rel="icon" href="favicon.ico" sizes="48x48">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="site.webmanifest">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;1,500&display=swap">
+  <link rel="stylesheet" href="style.css">
+
+  <script type="application/ld+json">{{JSON_LD}}</script>
+</head>
+<body>
+  <a class="skip-link" href="#tresc">Przejdź do treści</a>
+
+  <header class="site-header">
+    <a class="brand" href="#start" aria-label="{{BRAND_ARIA}}">
+      <span class="brand-mark" aria-hidden="true">{{LOGO_MARK}}</span>
+      <span class="brand-copy">
+        <span class="brand-name">{{BRAND_NAME}}</span>
+        <span class="brand-tagline">{{TAGLINE_FIRST}} <strong class="brand-blisko">{{TAGLINE_HIGHLIGHT}}</strong> <em class="brand-mamy">{{TAGLINE_LAST}}</em></span>
+      </span>
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Otwórz menu" aria-expanded="false" aria-controls="menu">☰</button>
+    <nav class="nav" id="menu" aria-label="Menu główne">
+      <a href="#wsparcie">Oferta</a>
+      {{PRICES_NAV_LINK}}
+      {{REVIEWS_NAV_LINK}}
+      <a href="#o-mnie">O mnie</a>
+      <a href="#jak-pracuje">Jak pracuję</a>
+      {{FAQ_NAV_LINK}}
+      <a href="#kontakt">Kontakt</a>
+      <a class="nav-cta" href="#kontakt">Umów konsultację</a>
+    </nav>
+  </header>
+
+  <main id="tresc">
+    <section class="hero" id="start">
+      <div class="hero-copy">
+        <h1><span class="hero-role">{{HERO_ROLE_LINE}}</span> {{HERO_HEADING_LINE}}<br><em>{{HERO_HEADING_EMPHASIS}}</em>{{HERO_HEADING_END}}</h1>
+        <p class="hero-location">{{HERO_LOCATION}}</p>
+        <p class="hero-lead">{{HERO_LEAD}}</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="{{PHONE_HREF}}">Zadzwoń: {{PHONE_DISPLAY}}</a>
+          <a class="button button-outline" href="#kontakt">Napisz wiadomość</a>
+        </div>
+        <p class="hero-note"><span class="note-heart" aria-hidden="true">♡</span>{{HERO_NOTE}}</p>
+      </div>
+      {{HERO_ART_HTML}}
+    </section>
+
+    {{CARE_PATH_HTML}}
+
+    <section class="section services" id="wsparcie">
+      <div class="section-heading">
+        <h2>{{SERVICES_TITLE}}</h2>
+        <p class="section-intro">{{SERVICES_INTRO}}</p>
+      </div>
+      <div class="stages">
+        {{STAGES_HTML}}
+      </div>
+    </section>
+
+    {{PRICES_SECTION}}
+
+    {{REVIEWS_SECTION}}
+
+    {{QUOTE_BAND}}
+
+    <section class="section about" id="o-mnie">
+      <aside class="about-aside" aria-label="{{ABOUT_FACTS_TITLE}}">
+        {{ABOUT_ASIDE_HTML}}
+      </aside>
+      <div class="about-copy">
+        <h2>{{ABOUT_TITLE}}</h2>
+        <p class="about-lead">{{ABOUT_LEAD}}</p>
+        {{ABOUT_PARAGRAPHS}}
+        {{ABOUT_BELIEFS_HTML}}
+        {{ABOUT_QUALIFICATIONS_HTML}}
+        <p class="signature">{{ABOUT_SIGNATURE_FIRST}} <span>{{ABOUT_SIGNATURE_SECOND}}</span> <span aria-hidden="true">♡</span></p>
+      </div>
+    </section>
+
+    <section class="section values" id="jak-pracuje">
+      {{VALUES_HTML}}
+    </section>
+
+    {{FAQ_SECTION}}
+
+    <section class="section contact" id="kontakt">
+      <div class="contact-copy">
+        <h2>{{CONTACT_TITLE}}</h2>
+        <p>{{CONTACT_LEAD}}</p>
+        <div class="contact-details">
+          {{CONTACT_DETAILS_HTML}}
+        </div>
+      </div>
+      <form class="contact-form" id="contact-form" data-recipient="{{CONTACT_EMAIL}}">
+        <div class="contact-form-fields" id="contact-form-fields">
+          <h3>{{CONTACT_FORM_TITLE}}</h3>
+          <p class="form-intro">{{CONTACT_FORM_INTRO}}</p>
+          <label for="name">Imię</label><input id="name" name="name" autocomplete="given-name" placeholder="Twoje imię" required>
+          <label for="phone">Numer telefonu</label><input id="phone" name="phone" type="tel" autocomplete="tel" placeholder="+48 ...">
+          <label for="email">Adres e-mail</label><input id="email" name="email" type="email" autocomplete="email" placeholder="twoj@email.pl">
+          <label for="city">Miejscowość</label><input id="city" name="city" autocomplete="address-level2" placeholder="W jakiej miejscowości mieszkasz?">
+          <label for="topic">Rodzaj usługi</label>
+          <select id="topic" name="topic">{{CONTACT_TOPICS_HTML}}</select>
+          <label for="preferred-contact">Preferowany sposób kontaktu</label>
+          <select id="preferred-contact" name="preferred_contact">{{CONTACT_METHODS_HTML}}</select>
+          <label for="message">Wiadomość <span class="optional-label">(opcjonalnie)</span></label><textarea id="message" name="message" rows="4" placeholder="Napisz kilka słów o swojej sytuacji lub terminie spotkania..."></textarea>
+          <button class="button button-primary" type="submit">Przygotuj wiadomość</button>
+          <small class="form-helper">{{CONTACT_FORM_HELPER}}</small>
+        </div>
+
+        <div class="message-result" id="message-result" hidden aria-live="polite" tabindex="-1">
+          <h3>Twoja wiadomość jest gotowa</h3>
+          <p>Możesz skopiować ją do Gmaila lub otworzyć gotowy szkic w wybranej poczcie.</p>
+          <div class="prepared-meta">
+            <div><span>Do</span><strong id="prepared-to">{{CONTACT_EMAIL}}</strong></div>
+            <div><span>Temat</span><strong id="prepared-subject"></strong></div>
+          </div>
+          <label for="prepared-message">Treść wiadomości</label>
+          <textarea id="prepared-message" rows="9" readonly></textarea>
+          <div class="message-actions">
+            <button class="button button-primary" type="button" id="copy-message">Kopiuj temat i treść</button>
+            <button class="button button-soft" type="button" id="open-gmail">Otwórz Gmail</button>
+            <button class="button button-outline" type="button" id="open-mail-app">Otwórz aplikację pocztową</button>
+          </div>
+          <small id="copy-status" class="copy-status" role="status" aria-live="polite">Na telefonie „Otwórz aplikację pocztową” uruchomi domyślną aplikację e-mail.</small>
+          <button class="edit-message" type="button" id="edit-message">Wróć i edytuj formularz</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <a class="brand" href="#start" aria-label="{{BRAND_FOOTER_ARIA}}">
+      <span class="brand-mark" aria-hidden="true">{{LOGO_MARK}}</span>
+      <span class="brand-copy">
+        <span class="brand-name">{{BRAND_NAME}}</span>
+        <span class="brand-subtitle">{{BRAND_OWNER}}</span>
+      </span>
+    </a>
+    <p class="footer-motto">{{FOOTER_DESCRIPTION}}</p>
+    <nav class="footer-links" aria-label="Menu w stopce"><a href="#wsparcie">Usługi</a>{{PRICES_NAV_LINK}}{{REVIEWS_NAV_LINK}}<a href="#o-mnie">O mnie</a><a href="#kontakt">Kontakt</a></nav>
+    <small>© <span id="year">{{YEAR}}</span> {{BRAND_OWNER}}, <a href="{{CANONICAL_URL}}">{{FOOTER_DOMAIN}}</a>. {{FOOTER_COPYRIGHT_SUFFIX}}.</small>
+  </footer>
+
+  <div class="call-bar" aria-label="Szybki kontakt">
+    <a class="call-bar-phone" href="{{PHONE_HREF}}">{{ICON_PHONE}}Zadzwoń</a>
+    <a class="call-bar-sms" href="{{SMS_HREF}}">{{ICON_MESSAGE}}Napisz SMS</a>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

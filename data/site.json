@@ -1,0 +1,501 @@
+{
+  "site": {
+    "domain": "czulapolozna.pl",
+    "canonical_url": "https://czulapolozna.pl/",
+    "title": "Położna i doradczyni laktacyjna Lublin, Puławy | Czuła Położna",
+    "meta_description": "Wizyty domowe położnej i doradczyni laktacyjnej w Lublinie, Puławach i okolicy: konsultacja laktacyjna, wizyta poporodowa, szkoła rodzenia, KTG w domu.",
+    "keywords": [
+      "położna Lublin",
+      "położna Puławy",
+      "doradczyni laktacyjna Lublin",
+      "doradca laktacyjny Lublin",
+      "konsultacja laktacyjna Lublin",
+      "konsultacja laktacyjna Puławy",
+      "wizyta poporodowa Lublin",
+      "położna wizyta domowa",
+      "domowa szkoła rodzenia Lublin",
+      "szkoła rodzenia Puławy",
+      "KTG w domu Lublin",
+      "położna do porodu Lublin",
+      "chustonoszenie Lublin",
+      "Czuła Położna",
+      "Katarzyna Muszyńska",
+      "CDL",
+      "Certyfikowana Doradczyni Laktacyjna",
+      "Położna",
+      "Laktacja",
+      "Wsparcie poporodowe",
+      "Opieka domowa",
+      "Konsultacja poporodowa",
+      "Szkoła rodzenia",
+      "Relaksacja",
+      "KTG w domu",
+      "Dzień z położną",
+      "Poród",
+      "Połóg",
+      "Karmienie piersią",
+      "Opieka poporodowa",
+      "Wsparcie w karmieniu piersią",
+      "Poradnictwo laktacyjne",
+      "Konsultacja laktacyjna",
+      "Przygotowanie do porodu",
+      "Opieka okołoporodowa",
+      "Opieka prenatalna",
+      "Opieka poporodowa",
+      "Doula",
+      "Certyfikowany Doradca Laktacyjny",
+      "Wsparcie laktacyjne",
+      "Prywatna położna"
+    ],
+    "og_title": "Czuła Położna: Katarzyna Muszyńska, położna i doradczyni laktacyjna",
+    "og_description": "Indywidualne wizyty domowe w Lublinie, Puławach i okolicy: szkoła rodzenia, przygotowanie do karmienia, konsultacje laktacyjne i wsparcie po porodzie.",
+    "og_image": "assets/og-image.jpg",
+    "og_image_alt": "Czuła Położna: zdjęcie Katarzyny Muszyńskiej, logo mamy tulącej dziecko i napis o wizytach domowych w Lublinie i Puławach",
+    "locality": "Lublin",
+    "region": "lubelskie",
+    "country": "PL",
+    "service_cities": ["Lublin", "Puławy"]
+  },
+  "brand": {
+    "name": "Czuła Położna",
+    "owner": "Katarzyna Muszyńska",
+    "tagline_first": "zawsze",
+    "tagline_highlight": "blisko",
+    "tagline_last": "mamy",
+    "footer_description": "Wiedza, która daje spokój. Wsparcie, które nie ocenia."
+  },
+  "hero": {
+    "role_line": "Położna i doradczyni laktacyjna",
+    "heading_line": "Wiedza, która daje spokój.",
+    "heading_emphasis": "Wsparcie,",
+    "heading_end": " które nie ocenia.",
+    "location": "Wizyty domowe w Lublinie, Puławach i okolicy",
+    "lead": "Przyjeżdżam do Ciebie w ciąży, po porodzie i w pierwszych miesiącach z dzieckiem. Wyjaśniam, pokazuję w praktyce i pomagam podjąć decyzje zgodne z Tobą.",
+    "note": "Wspieram. Wyjaśniam. Nie oceniam.",
+    "photo": "assets/katarzyna-muszynska.webp",
+    "photo_alt": "Katarzyna Muszyńska, położna i doradczyni laktacyjna, w bordowej koszulce z wyhaftowanym napisem „położna”",
+    "photo_position": "50% 40%",
+    "seal_text": "KATARZYNA MUSZYŃSKA · POŁOŻNA · DORADCZYNI LAKTACYJNA ·"
+  },
+  "care_path": {
+    "title": "Możemy spotkać się na każdym etapie: od ciąży do odstawienia od piersi.",
+    "band": "Karmienie: pomagam od pierwszego przystawienia do odstawienia od piersi",
+    "band_target": "konsultacja-laktacyjna"
+  },
+  "services_section": {
+    "title": "Opieka dopasowana do Ciebie",
+    "intro": "Każda kobieta, każda ciąża i każda rodzina mają własną historię. Możesz skorzystać z pojedynczej wizyty albo wybrać kilka spotkań, które zapewnią Ci ciągłość opieki. Wszystkie usługi realizuję w formie wizyt domowych. Standardowa wizyta trwa około 1,5 godziny, a dzień z położną 6 godzin."
+  },
+  "stages": [
+    {
+      "id": "w-ciazy",
+      "label": "W ciąży",
+      "path_note": "Szkoła rodzenia, przygotowanie do karmienia, relaksacja, KTG",
+      "title": "W ciąży",
+      "intro": "Przygotowanie do porodu, karmienia i pierwszych dni z dzieckiem."
+    },
+    {
+      "id": "porod",
+      "label": "Poród",
+      "path_note": "Jestem przy Tobie i osobie towarzyszącej",
+      "title": "Przy porodzie",
+      "intro": "Wsparcie od ostatnich tygodni ciąży do pierwszych godzin z dzieckiem."
+    },
+    {
+      "id": "po-porodzie",
+      "label": "Pierwsze tygodnie",
+      "path_note": "Wizyta poporodowa, laktacja, dzień z położną",
+      "title": "Po porodzie",
+      "intro": "Połóg, karmienie i codzienna opieka nad noworodkiem w Waszym domu."
+    },
+    {
+      "id": "kolejne-miesiace",
+      "label": "Kolejne miesiące",
+      "path_note": "Chusta, rozszerzanie diety, odstawienie od piersi",
+      "title": "Kolejne miesiące",
+      "intro": "Bliskość na co dzień i następne etapy karmienia."
+    }
+  ],
+  "services": [
+    {
+      "id": "szkola-rodzenia",
+      "stage": "w-ciazy",
+      "icon": "birth-school",
+      "kicker": "Przygotowanie do porodu",
+      "title": "Domowa szkoła rodzenia",
+      "summary": "Przebieg porodu, łagodzenie bólu, plan porodu i prawa rodzącej. Program dopasowuję do Ciebie i Twoich doświadczeń.",
+      "description": "Przygotowanie do porodu nie musi oznaczać zapamiętywania kolejnych list i zasad. Może być czasem poznawania swojego ciała, zdobywania praktycznych umiejętności oraz budowania zaufania do siebie. Omawiamy przebieg porodu, możliwe scenariusze, komunikację z personelem, prawa kobiety rodzącej, plan porodu, połóg i pierwsze chwile z dzieckiem. Program dostosowuję do Twojej sytuacji, wcześniejszych doświadczeń i tematów, które są dla Ciebie najważniejsze.",
+      "bullets": [
+        "Fizjologia i kolejne etapy porodu oraz możliwe scenariusze",
+        "Metody łagodzenia bólu, pozycje porodowe, ruch i techniki oddechowe",
+        "Plan porodu, także w kontekście cięcia cesarskiego",
+        "Prawa kobiety rodzącej, komunikacja z personelem i przygotowanie do połogu",
+        "Przygotowanie osoby towarzyszącej do bycia realnym wsparciem"
+      ],
+      "cta": "Zapytaj o domową szkołę rodzenia",
+      "topic": "Domowa szkoła rodzenia",
+      "featured": true
+    },
+    {
+      "id": "przygotowanie-do-karmienia",
+      "stage": "w-ciazy",
+      "icon": "feeding",
+      "kicker": "Jeszcze przed narodzinami",
+      "title": "Przygotowanie do karmienia piersią",
+      "summary": "Jak rusza laktacja, czego spodziewać się w pierwszych dobach i po czym poznać, że dziecko skutecznie je.",
+      "description": "Do karmienia możesz przygotować się jeszcze przed narodzinami dziecka. Podczas spotkania wyjaśnię, jak rozpoczyna się laktacja, czego możesz spodziewać się w pierwszych dobach i po czym rozpoznać, że dziecko skutecznie pobiera pokarm. Porozmawiamy o trudnościach, które mogą pojawić się na początku, oraz o sytuacjach wymagających dodatkowego wsparcia. Bez idealizowania karmienia i bez wywierania presji: celem jest wiedza i narzędzia do świadomych decyzji.",
+      "bullets": [
+        "Pierwszy kontakt z dzieckiem i rozpoczęcie laktacji",
+        "Pozycje do karmienia i podstawy prawidłowego przystawienia",
+        "Oznaki skutecznego karmienia i najczęstsze trudności",
+        "Odciąganie i przechowywanie pokarmu oraz sytuacje, w których warto poprosić o pomoc"
+      ],
+      "cta": "Przygotuj się do karmienia",
+      "topic": "Przygotowanie do karmienia piersią"
+    },
+    {
+      "id": "opieka-nad-noworodkiem",
+      "stage": "w-ciazy",
+      "icon": "newborn",
+      "kicker": "Praktyczne przygotowanie",
+      "title": "Opieka nad noworodkiem",
+      "summary": "Ćwiczymy podnoszenie, noszenie, przewijanie, kąpiel i pielęgnację pępka. W spokojnym tempie, z powtórkami.",
+      "description": "Noworodek nie potrzebuje perfekcyjnych rodziców. Potrzebuje bliskości, bezpieczeństwa i spokojnej opieki. Podczas praktycznego spotkania pokażę Ci, jak podnosić, odkładać, nosić, przewijać i ubierać dziecko. Porozmawiamy również o kąpieli, pielęgnacji pępka, codziennej higienie i organizacji pierwszych dni po powrocie do domu. Ćwiczymy w spokojnym tempie: możesz powtarzać poszczególne czynności i zadawać pytania.",
+      "bullets": [
+        "Podnoszenie, odkładanie i bezpieczne noszenie dziecka",
+        "Przewijanie, ubieranie i kąpiel",
+        "Pielęgnacja pępka i codzienna higiena",
+        "Organizacja pierwszych dni po powrocie ze szpitala"
+      ],
+      "cta": "Umów praktyczne spotkanie",
+      "topic": "Opieka nad noworodkiem"
+    },
+    {
+      "id": "relaksacja",
+      "stage": "w-ciazy",
+      "icon": "relaxation",
+      "kicker": "Relaksacja w ciąży",
+      "title": "Relaksacja w ciąży i spokojny poród",
+      "summary": "Oddech, rozluźnianie ciała i wizualizacje inspirowane hipnoporodem, które pomagają opanować napięcie.",
+      "description": "Podczas spotkań poznasz techniki inspirowane hipnoporodem. Nauczysz się świadomego oddechu, rozluźniania ciała, pracy z wyobraźnią oraz budowania poczucia bezpieczeństwa. To narzędzia, które mogą pomóc ograniczyć napięcie i odzyskać koncentrację w zmieniającej się sytuacji.",
+      "bullets": [
+        "Świadomy oddech i rozluźnianie ciała",
+        "Praca z napięciem i wizualizacją",
+        "Budowanie wspierających przekonań",
+        "Tworzenie spokojnych warunków do porodu"
+      ],
+      "cta": "Poznaj techniki relaksacji",
+      "topic": "Relaksacja w ciąży i przygotowanie do spokojnego porodu"
+    },
+    {
+      "id": "ktg",
+      "stage": "w-ciazy",
+      "icon": "ktg",
+      "kicker": "Wizyta w Twoim domu",
+      "title": "Badanie KTG w domu",
+      "summary": "Zapis KTG w spokojnym, znanym otoczeniu, z czasem na pytania o końcówkę ciąży.",
+      "description": "Badanie KTG mogę wykonać podczas wizyty w Twoim domu. To wygodne rozwiązanie, jeśli chcesz przeprowadzić badanie w spokojnym, znanym otoczeniu. Podczas spotkania jest również miejsce na rozmowę i pytania związane z końcem ciąży.",
+      "bullets": [
+        "Wykonanie zapisu KTG w domu",
+        "Czas na pytania i omówienie wątpliwości",
+        "W razie wskazań zalecenie kontaktu z lekarzem lub odpowiednią placówką"
+      ],
+      "cta": "Zapytaj o KTG",
+      "topic": "Badanie KTG w domu"
+    },
+    {
+      "id": "towarzyszenie-w-porodzie",
+      "stage": "porod",
+      "icon": "birth",
+      "kicker": "Przy porodzie",
+      "title": "Towarzyszenie w porodzie",
+      "summary": "Dwa spotkania w ciąży, gotowość przed porodem i wsparcie na sali, także dla Twojej osoby towarzyszącej.",
+      "description": "Podczas porodu jestem Twoim wsparciem. Dbam o Twój komfort, pomagam korzystać z oddechu, ruchu, dotyku i poznanych wcześniej sposobów relaksacji. Wspieram także bliską osobę, która Ci towarzyszy. Nie zajmuję jej miejsca: pokazuję, jak może Ci pomóc, i wspólnie tworzymy zespół skoncentrowany na Twoim komforcie.",
+      "bullets": [
+        "2 spotkania przygotowujące w ciąży",
+        "Jesteśmy w kontakcie, kiedy potrzebujesz",
+        "Gotowość i towarzyszenie podczas porodu",
+        "Wsparcie emocjonalne i fizyczne oraz pomoc osobie towarzyszącej",
+        "Jedna wizyta po porodzie"
+      ],
+      "cta": "Porozmawiajmy o porodzie",
+      "topic": "Towarzyszenie w porodzie",
+      "note": "Moje wsparcie nie zastępuje opieki położnej ani lekarza w trakcie porodu."
+    },
+    {
+      "id": "wizyta-poporodowa",
+      "stage": "po-porodzie",
+      "icon": "postpartum",
+      "kicker": "Po porodzie",
+      "title": "Wizyta poporodowa",
+      "summary": "Badam i ważę dziecko, sprawdzam przebieg połogu i rozmawiamy o tym, jak Ty się czujesz.",
+      "description": "Po narodzinach dziecka większość uwagi naturalnie skupia się na noworodku. Podczas mojej wizyty ważna jesteś przede wszystkim Ty. Porozmawiamy o Twoim samopoczuciu, regeneracji, przebiegu połogu, karmieniu i codziennej opiece nad dzieckiem. Zbadam i zważę noworodka oraz ocenię jego stan. Zbadam także Ciebie, ocenię przebieg połogu, obkurczanie się macicy oraz gojenie rany. Jeśli będzie to wskazane, mogę również usunąć szwy.",
+      "bullets": [
+        "Rozmowa o samopoczuciu mamy, regeneracji i przebiegu połogu",
+        "Badanie i ważenie noworodka oraz ocena jego stanu",
+        "Ocena obkurczania się macicy i gojenia rany; w razie wskazań usunięcie szwów",
+        "Wsparcie w karmieniu i codziennej opiece nad dzieckiem",
+        "Możliwość przesiewowego pomiaru bilirubiny bilirubinometrem"
+      ],
+      "cta": "Umów wizytę poporodową",
+      "topic": "Wizyta poporodowa",
+      "note": "Pomiar bilirubinometrem jest badaniem przesiewowym i nie zastępuje badania laboratoryjnego, jeśli jest ono wskazane."
+    },
+    {
+      "id": "konsultacja-laktacyjna",
+      "stage": "po-porodzie",
+      "icon": "lactation",
+      "kicker": "Karmienie bez oceniania",
+      "title": "Konsultacja laktacyjna",
+      "summary": "Gdy karmienie boli, budzi niepewność albo chcesz tylko potwierdzić, że wszystko przebiega dobrze.",
+      "description": "Karmienie nie jest sprawdzianem z bycia dobrą mamą. Jeśli pojawia się ból, niepewność albo poczucie, że coś nie działa, spokojnie przyjrzymy się Waszej sytuacji. Podczas konsultacji zbieram potrzebne informacje i obserwuję karmienie. Pomagam poprawić pozycję oraz sposób przystawiania dziecka, a następnie wspólnie ustalamy możliwy do wykonania plan dalszego postępowania. Możesz zgłosić się także wtedy, gdy nie ma wyraźnego problemu, ale potrzebujesz potwierdzenia, że karmienie przebiega prawidłowo.",
+      "bullets": [
+        "Wsparcie przy bólu, poranionych brodawkach i trudnościach z przystawieniem",
+        "Pomoc przy wątpliwościach dotyczących ilości pokarmu i przyrostów masy ciała dziecka",
+        "Wsparcie przy karmieniu piersią, odciągniętym mlekiem, butelką i karmieniu mieszanym",
+        "Dobór sprzętu laktacyjnego, odciąganie pokarmu i dobór butelki"
+      ],
+      "cta": "Umów konsultację laktacyjną",
+      "topic": "Konsultacja laktacyjna",
+      "note": "Jeśli sytuacja wymaga dodatkowej diagnostyki, wskażę, do jakiego specjalisty warto się zgłosić."
+    },
+    {
+      "id": "dzien-z-polozna",
+      "stage": "po-porodzie",
+      "icon": "day",
+      "kicker": "Sześć godzin spokojnego wsparcia",
+      "title": "Dzień z położną",
+      "summary": "Sześć godzin w Waszym domu: karmienie, pielęgnacja, uspokajanie dziecka i czas na wszystkie pytania.",
+      "description": "Dzień z położną to sześć godzin spokojnego wsparcia w pierwszych dniach z dzieckiem. Przyglądamy się Waszej codzienności, karmieniu, pielęgnacji i uspokajaniu dziecka. Jest czas na ćwiczenia, powtórki, rozmowę i rozwiązania odpowiednie dla Waszej rodziny.",
+      "bullets": [
+        "Sześć godzin indywidualnego wsparcia w domu",
+        "Pomoc w karmieniu, pielęgnacji, przewijaniu i noszeniu",
+        "Praktyczne ćwiczenia i powtórki",
+        "Czas na pytania i rozwianie wątpliwości"
+      ],
+      "cta": "Zapytaj o dzień z położną",
+      "topic": "Dzień z położną"
+    },
+    {
+      "id": "chustonoszenie",
+      "stage": "kolejne-miesiace",
+      "icon": "babywearing",
+      "kicker": "Bliskość na co dzień",
+      "title": "Nauka chustonoszenia",
+      "summary": "Dobieramy wiązanie do dziecka i opiekuna. Ćwiczymy krok po kroku, aż poczujesz się pewnie.",
+      "description": "Chusta może pomagać odpowiadać na potrzebę bliskości dziecka, a jednocześnie ułatwiać codzienne funkcjonowanie. Podczas spotkania dobieramy sposób wiązania do wieku i potrzeb dziecka oraz możliwości opiekuna. Uczysz się przygotowania chusty, prawidłowego ułożenia dziecka i dokładnego dociągania materiału. Ćwiczymy krok po kroku, bez pośpiechu.",
+      "bullets": [
+        "Zasady bezpiecznego noszenia",
+        "Nauka wybranego wiązania",
+        "Prawidłowe ułożenie dziecka",
+        "Czas na pytania i powtórki"
+      ],
+      "cta": "Naucz się nosić w chuście",
+      "topic": "Nauka chustonoszenia",
+      "soft": true
+    },
+    {
+      "id": "rozszerzanie-diety",
+      "stage": "kolejne-miesiace",
+      "icon": "weaning",
+      "kicker": "Kolejne etapy karmienia",
+      "title": "Rozszerzanie diety i odstawienie od piersi",
+      "summary": "Plan dopasowany do wieku i gotowości dziecka, bez narzucania jednego terminu ani sposobu.",
+      "description": "Rozszerzanie diety oraz zakończenie karmienia piersią mogą budzić wiele pytań i emocji. Uporządkujemy informacje i stworzymy plan dopasowany do wieku oraz gotowości dziecka, a także do potrzeb Waszej rodziny.",
+      "bullets": [
+        "Omówienie gotowości dziecka do rozszerzania diety",
+        "Plan dopasowany do wieku i potrzeb rodziny",
+        "Przygotowanie do odstawienia dziecka z troską o komfort mamy i dziecka",
+        "Bez narzucania jednego terminu ani sposobu"
+      ],
+      "cta": "Umów konsultację",
+      "topic": "Rozszerzanie diety i odstawienie od piersi"
+    }
+  ],
+  "prices": {
+    "title": "Spokojne spotkania w Twoim domu",
+    "intro": "Wszystkie usługi realizuję w formie wizyt domowych. Standardowa wizyta trwa około 1,5 godziny.",
+    "items": [
+      { "name": "Konsultacja laktacyjna", "price": "300 zł" },
+      { "name": "Wizyta poporodowa", "price": "300 zł" },
+      { "name": "Spotkanie edukacyjne", "price": "300 zł" },
+      { "name": "Dzień z położną", "price": "1000 zł" },
+      { "name": "Opieka nad noworodkiem", "price": "300 zł" },
+      { "name": "Nauka chustonoszenia", "price": "300 zł" },
+      { "name": "Badanie KTG w domu", "price": "200 zł" },
+      { "name": "Towarzyszenie w porodzie", "price": "3500 zł" }
+    ],
+    "packages": [
+      {
+        "name": "Pakiet edukacyjny w ciąży",
+        "price": "750 zł",
+        "duration": "3 spotkania po około 1,5 godziny",
+        "details": "Każde spotkanie może dotyczyć innego wybranego tematu: przygotowania do porodu, karmienia, połogu lub opieki nad noworodkiem. Oszczędzasz 150 zł."
+      },
+      {
+        "name": "Pakiet wizyt poporodowych",
+        "price": "750 zł",
+        "duration": "3 spotkania po około 1,5 godziny",
+        "details": "Ciągłość opieki po porodzie i możliwość dopasowywania wsparcia do zmieniających się potrzeb mamy i dziecka. Oszczędzasz 150 zł."
+      }
+    ],
+    "travel": "Dojazd na terenie Lublina i Puław jest wliczony w cenę wizyty. Dojeżdżam również do okolicznych miejscowości. Koszt dalszego dojazdu ustalam indywidualnie przed potwierdzeniem wizyty."
+  },
+  "reviews": {
+    "title": "Słowa, które zostają w sercu",
+    "intro": "Kilka słów od mam, którym mogłam towarzyszyć w ważnych chwilach.",
+    "source_name": "ZnanyLekarz",
+    "source_url": "https://www.znanylekarz.pl/profil/katarzyna-muszynska-2",
+    "source_note": "Wybrane słowa mam.",
+    "items": [
+      { "quote": "Dzięki Pani Kasi odzyskałam spokój i pewność siebie jako mama.", "author": "Ola M." },
+      { "quote": "Po raz pierwszy poczułam się naprawdę wysłuchana i zrozumiana.", "author": "Natalia" },
+      { "quote": "W najtrudniejszym momencie poczuliśmy się zaopiekowani i bezpieczni.", "author": "MC" }
+    ]
+  },
+  "quote_band": "Nie ma jednej idealnej drogi. Jest Wasza droga i możemy przejść ją razem.",
+  "about": {
+    "title": "Cześć, jestem Kasia",
+    "facts_title": "W skrócie",
+    "facts": [
+      { "label": "Wykształcenie", "value": "Położnictwo, Uniwersytet Medyczny w Lublinie" },
+      { "label": "Laktacja", "value": "Edukatorka do spraw laktacji, w trakcie przygotowań do egzaminu IBCLC" },
+      { "label": "Doświadczenie", "value": "Szkoła rodzenia, przychodnia POZ, praca wykładowczyni akademickiej" },
+      { "label": "Gdzie przyjeżdżam", "value": "Lublin, Puławy i okolice" }
+    ],
+    "lead": "Jestem położną i doradczynią laktacyjną. Wierzę, że profesjonalna opieka może być jednocześnie konkretna, spokojna i pełna uważności.",
+    "paragraphs": [
+      "Sama jestem mamą i przeszłam etapy tej drogi. Wiem, że początkom rodzicielstwa mogą towarzyszyć radość i wzruszenie, ale także zmęczenie, pytania i niepewność.",
+      "W swojej pracy łączę wiedzę, doświadczenie i praktyczne przygotowanie ze szczerym szacunkiem dla historii, potrzeb i wyborów każdej kobiety. Nie chcę mówić Ci, co powinnaś zrobić. Chcę pomóc Ci zrozumieć, jakie masz możliwości, czego potrzebujesz i które rozwiązania będą zgodne z Tobą.",
+      "Towarzyszę kobietom przy różnych wyborach dotyczących porodu, karmienia i opieki nad dzieckiem. Nie oceniam. Słucham, wyjaśniam i pomagam odnaleźć własną drogę. Moją rolą jest przekazać Ci wiedzę, pokazać praktyczne rozwiązania i zapewnić wsparcie, a to Ty decydujesz, z czego chcesz skorzystać.",
+      "Doświadczenie zawodowe zdobywałam, pracując w szkole rodzenia, przychodni podstawowej opieki zdrowotnej oraz jako wykładowczyni akademicka. Prowadzenie własnej praktyki pozwala mi pracować indywidualnie, bez pośpiechu i z uważnością na potrzeby kobiety oraz jej rodziny.",
+      "Jestem również edukatorką do spraw laktacji. Przygotowuję się do uzyskania certyfikatu IBCLC i stale rozwijam swoje kompetencje, aby przekazywać profesjonalną, aktualną i dopasowaną do potrzeb wiedzę."
+    ],
+    "signature_first": "Z czułością,",
+    "signature_second": "Twoja położna",
+    "beliefs_title": "Wierzę, że",
+    "beliefs": [
+      "masz prawo zadawać pytania i potrzebować pomocy",
+      "masz prawo zmieniać zdanie",
+      "Twoje granice i decyzje zasługują na szacunek",
+      "dobra opieka powinna wzmacniać Twoją sprawczość",
+      "nie musisz spełniać cudzych oczekiwań, aby być dobrą mamą"
+    ],
+    "qualifications_title": "Kwalifikacje i ukończone kursy",
+    "qualifications": [
+      "Położnictwo, Uniwersytet Medyczny w Lublinie",
+      "Edukatorka do spraw laktacji, Centrum Nauki o Laktacji",
+      "W trakcie szkolenia przygotowującego do egzaminu IBCLC",
+      "Kurs pielęgniarstwa rodzinnego dla położnych",
+      "Kurs pobierania materiału do badań cytologicznych w ramach programu SIMP",
+      "Kurs „Holistycznie do porodu”",
+      "Kurs HypnoBirthing International",
+      "Kurs KTG"
+    ]
+  },
+  "work_section": {
+    "title": "Wiedza, uważność i szacunek dla Ciebie"
+  },
+  "values": [
+    { "icon": "care", "title": "Z uważnością i bez oceniania", "text": "Słucham tego, co jest ważne dla Ciebie. Nie sprawdzam, czy odpowiadasz cudzej wizji macierzyństwa." },
+    { "icon": "knowledge", "title": "W oparciu o wiedzę", "text": "Przekazuję uporządkowane informacje prostym i zrozumiałym językiem. Bazuję na aktualnej wiedzy medycznej." },
+    { "icon": "practice", "title": "Praktycznie", "text": "Nie ograniczamy się do rozmowy. Ćwiczymy umiejętności, z których skorzystasz na co dzień." },
+    { "icon": "respect", "title": "Z poszanowaniem granic", "text": "Wyjaśniam przebieg spotkania i proponowane czynności. Możesz pytać, odmówić lub poprosić o przerwę." },
+    { "icon": "calm", "title": "Bez pośpiechu", "text": "Jest czas na rozmowę, pytania, rozwianie wątpliwości i omówienie tego, co dla Ciebie ważne." },
+    { "icon": "continuity", "title": "Z możliwością ciągłości opieki", "text": "Możemy poznać się w ciąży, przygotować do porodu, a później spotkać w połogu i podczas początków karmienia." }
+  ],
+  "contact": {
+    "title": "Porozmawiajmy o tym, czego potrzebujesz",
+    "lead": "Nie musisz od razu wiedzieć. Napisz, na jakim jesteś etapie i co jest teraz dla Ciebie najważniejsze. Możesz skontaktować się ze mną także wtedy, gdy masz pytania, wątpliwości albo chcesz sprawdzić, która usługa będzie odpowiednia. Pierwszy kontakt nie zobowiązuje Cię do rezerwacji wizyty.",
+    "phone": "+48 780 602 903",
+    "email": "czulapolozna.lublin@gmail.com",
+    "instagram": "czula.polozna",
+    "instagram_url": "https://www.instagram.com/czula.polozna/",
+    "address": "[Adres gabinetu - uzupełnij]",
+    "service_area": "Lublin, Puławy i okolice"
+  },
+  "contact_form": {
+    "title": "Napisz do mnie",
+    "intro": "Wypełnij formularz i napisz krótko, w jakiej sprawie się kontaktujesz. Podaj swoją miejscowość, preferowany sposób kontaktu oraz, jeśli to możliwe, przewidywany termin spotkania.",
+    "topics": [
+      "Konsultacja laktacyjna",
+      "Wizyta poporodowa",
+      "Opieka nad noworodkiem",
+      "Przygotowanie do karmienia piersią",
+      "Towarzyszenie w porodzie",
+      "Dzień z położną",
+      "Nauka chustonoszenia",
+      "Rozszerzanie diety i odstawienie od piersi",
+      "Domowa szkoła rodzenia",
+      "Relaksacja w ciąży i przygotowanie do spokojnego porodu",
+      "Badanie KTG w domu",
+      "Inne pytanie"
+    ],
+    "preferred_contact_options": ["Telefon", "E-mail", "SMS"],
+    "helper_note": "Odezwę się do Ciebie najszybciej, jak będę mogła. Wiadomość nie wysyła się automatycznie: przed wysłaniem możesz ją sprawdzić i edytować w swojej poczcie."
+  },
+  "footer": {
+    "copyright_suffix": "Wszelkie prawa zastrzeżone"
+  },
+  "settings": {
+    "show_prices": true,
+    "show_reviews": true,
+    "show_address": false,
+    "show_service_area": true,
+    "show_faq": true,
+    "show_quote_band": true
+  },
+  "faq": {
+    "title": "Masz pytania? Zacznijmy od odpowiedzi",
+    "items": [
+      {
+        "question": "Czy wizyty są refundowane przez NFZ?",
+        "answer": "Nie. Wszystkie usługi, które opisuję na tej stronie, są płatne prywatnie. Aktualne ceny znajdziesz w cenniku."
+      },
+      {
+        "question": "Mam bezpłatny patronaż położnej z NFZ. Po co mi prywatna wizyta?",
+        "answer": "Wizyty patronażowe położnej POZ przysługują każdej mamie po porodzie i warto z nich korzystać. Moja wizyta ich nie zastępuje, tylko uzupełnia: trwa około 1,5 godziny, umawiamy ją na dogodny dla Ciebie termin i jest na niej czas na spokojną obserwację karmienia, ważenie dziecka i wszystkie Twoje pytania."
+      },
+      {
+        "question": "Czy mogę skorzystać tylko z jednej wizyty?",
+        "answer": "Tak. Możesz umówić pojedyncze spotkanie albo wybrać pakiet zapewniający ciągłość opieki."
+      },
+      {
+        "question": "Czy na spotkaniu może być obecny partner lub inna bliska osoba?",
+        "answer": "Tak. Bliska osoba może uczestniczyć w spotkaniu, zadawać pytania oraz brać udział w ćwiczeniach. Dobrze przygotowany partner to cenne wsparcie."
+      },
+      {
+        "question": "Czy wszystkie wizyty odbywają się w domu?",
+        "answer": "Tak. Wszystkie oferowane przeze mnie usługi realizuję podczas wizyt domowych."
+      },
+      {
+        "question": "Gdzie dojeżdżasz?",
+        "answer": "Dojeżdżam na terenie Lublina, Puław i okolic. Dojazd w granicach Lublina i Puław jest bezpłatny. Koszt dojazdu do pozostałych miejscowości ustalam indywidualnie."
+      },
+      {
+        "question": "Ile trwa standardowa wizyta?",
+        "answer": "Większość wizyt trwa około 1,5 godziny. Dzień z położną trwa 6 godzin."
+      },
+      {
+        "question": "Czy konsultacja laktacyjna jest tylko dla kobiet karmiących wyłącznie piersią?",
+        "answer": "Nie. Punktem wyjścia są Twoja sytuacja, potrzeby oraz decyzje dotyczące sposobu karmienia. Wspieram mamy karmiące piersią, odciągniętym mlekiem, butelką oraz w sposób mieszany. Pomagam również dobrać sprzęt laktacyjny, sposób podawania pokarmu i odpowiednią butelkę."
+      },
+      {
+        "question": "Czy mogę skorzystać z konsultacji laktacyjnej jeszcze w ciąży?",
+        "answer": "Tak. Podczas konsultacji przygotujemy się do rozpoczęcia karmienia i omówimy najważniejsze zagadnienia związane z pierwszymi dniami laktacji."
+      },
+      {
+        "question": "Czy przyjmujesz poród?",
+        "answer": "Nie. Towarzyszę Ci w szpitalu, zapewniam wsparcie emocjonalne, informacyjne i fizyczne, ale nie wykonuję czynności medycznych i nie zastępuję położnej ani lekarza."
+      },
+      {
+        "question": "Czy muszę przygotować pytania przed wizytą?",
+        "answer": "Nie. Jeśli masz konkretne pytania, możesz je zapisać, ale nie jest to konieczne. Podczas spotkania wspólnie uporządkujemy Twoją sytuację i ustalimy, na czym warto się skupić."
+      },
+      {
+        "question": "Nie wiem, której usługi potrzebuję. Co wybrać?",
+        "answer": "Skontaktuj się ze mną i krótko opisz swoją sytuację. Pomogę Ci wybrać odpowiednią formę wsparcia."
+      }
+    ]
+  }
+}
